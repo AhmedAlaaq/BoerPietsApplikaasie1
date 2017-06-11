@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+	<database>
+		<type>mongodb</type>
+		<url>localhost</url>
+		<port>27017</port>
+		<databasenaam>BoerPiets</databasenaam>
+		<username>Ahmed</username>
+		<password>Reghed</password>
+	</database>
+	<database>
+		<type>mysql</type>
+		<drivernaam>com.mysql.jdbc.Driver</drivernaam>
+		<url>jdbc:mysql://localhost/BoerPiets</url>
+		<databasenaam>BoerPiets</databasenaam>
+		<username>Ahmed</username>
+		<password>Raghed</password>
+	</database>
+</database>
